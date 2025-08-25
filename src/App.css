@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.ContenedorPrincipal {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    height: 100vh;
+}

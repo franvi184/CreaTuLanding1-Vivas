@@ -1,0 +1,10 @@
+.ContenedorLogo {
+    border: solid black 2px;
+}
+
+.ContenedorLogo img  {
+    height: 6rem;
+    width: 6rem;
+    display: flex;
+    justify-self: center;
+}
