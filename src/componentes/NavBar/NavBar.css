@@ -1,11 +1,13 @@
-.AsideCont {
+aside {
     background-color: purple;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    height: 100vh;
     color: blanchedalmond;
     font-size: 1.5rem;
+    position: sticky;
+    height: 100vh;
+    top: 0;
 }
 
 .AsideCont ul li {

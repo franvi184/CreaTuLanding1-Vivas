@@ -1,0 +1,22 @@
+.CardProducto {
+    display: flex;
+    flex-direction: column;
+    width: 12rem;
+    border-radius: 1rem;
+    margin: 1rem;
+    text-align: center;
+    height: 20rem;
+}
+
+.CardProducto img {
+    width: 200px;
+}
+
+.CardDetails {
+    background-color: purple;
+    padding: 1rem;
+    border-radius: 1rem;
+    color: white;
+    position: relative;
+    margin-top: -2rem;
+}
